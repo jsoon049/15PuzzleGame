@@ -1,0 +1,20 @@
+#game {
+	border: solid 5px black;
+}
+
+td {
+	width: 125px;
+	height: 125px;
+	background-color: green;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 900;
+	color: #FFF;
+	box-shadow: 1px 1px 3px black;
+}
+
+.tile0 {
+	background-color: transparent;
+	box-shadow: none;
+	color: black;
+}
